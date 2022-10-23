@@ -19,7 +19,7 @@ int main()
     }
     else
     {
-        printf("both area and the perimeter is equal !!");
+        printf("both area and the perimeter is :  !!");
     }
     return 0;
 
